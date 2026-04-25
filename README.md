@@ -1,9 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hey+I'm+Rojeh+🛡️;Cybersecurity+Engineer;Ethical+Hacker;Breaking+Systems+%7C+Securing+Them" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00FF9C&center=true&vCenter=true&width=800&lines=Rojeh+%7C+Cybersecurity+Engineer;Ethical+Hacker+%7C+Penetration+Tester;Recon+%7C+Exploit+%7C+Secure" />
 </h1>
 
+<!-- MATRIX RAIN HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff9c&height=120&section=header&text=SYSTEM%20ACCESS&fontColor=00ff9c&fontSize=25&animation=fadeIn" />
+</p>
+
+<!-- TERMINAL SIMULATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&color=00FF9C&center=true&vCenter=true&width=700&lines=%24+nmap+-sV+target.com;Scanning+ports...;Vulnerability+detected...;Exploiting...;Access+Granted+✔" />
 </p>
 
 <h3 align="center">⚡ Offensive Security | Defensive Mindset | Continuous Learning ⚡</h3>
@@ -30,11 +36,11 @@
 <h2 align="left">👨‍💻 About Me:</h2>
 
 - 🛡️ Cybersecurity Engineer focused on **Offensive & Defensive Security**
-- 🔍 Passionate about **Penetration Testing & Vulnerability Assessment**
-- 🧠 Currently learning **Reverse Engineering & Malware Analysis**
+- 🔍 Specialized in **Penetration Testing & Vulnerability Assessment**
+- 🧠 Learning **Reverse Engineering & Malware Analysis**
 - ☁️ Exploring **Cloud Security (AWS / Azure / GCP)**
 - ⚔️ Active in **CTFs & Bug Bounty Platforms**
-- 📚 Constantly researching exploits & real-world attack techniques
+- 📚 Focused on real-world attack techniques
 
 ---
 
@@ -43,8 +49,8 @@
 - 🔐 Web Application Security Testing (**OWASP Top 10**)
 - 🧪 Network Scanning & Exploitation
 - 🛠️ Security Automation using Python
-- 📡 Packet Analysis & Traffic Monitoring
-- 🔎 Bug Bounty Hunting & Vulnerability Research
+- 📡 Traffic Analysis & Monitoring
+- 🔎 Bug Bounty & Vulnerability Research
 
 ---
 
@@ -76,6 +82,6 @@
 
 ---
 
-<h2 align="left">⚡ Fun Fact:</h2>
+<h2 align="left">⚡ Philosophy:</h2>
 
-> “The quieter you become, the more you are able to hear.” 🧠
+> “Know the system. Break the system. Secure the system.” 🔐
