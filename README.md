@@ -77,7 +77,7 @@
 <p align="left">
 <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-Rojeh-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="YOUR_TWITTER"><img src="https://img.shields.io/badge/-@yourhandle-1ca0f1?style=flat-square&logo=twitter&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-your@email.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:rojehwagdy524@gmail.com"><img src="https://img.shields.io/badge/-your@email.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
