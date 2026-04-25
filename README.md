@@ -1,60 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00FF9C&center=true&vCenter=true&width=800&lines=Rojeh+%7C+Cybersecurity+Engineer;Ethical+Hacker+%7C+Penetration+Tester;Recon+%7C+Exploit+%7C+Secure" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hey+I'm+Rojeh+🛡️;Cybersecurity+Engineer;Ethical+Hacker;Breaking+Systems+%7C+Securing+Them" />
 </h1>
 
-<!-- REAL MATRIX RAIN (SVG) -->
 <p align="center">
-<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="black"/>
-  
-  <g fill="#00ff9c" font-family="monospace" font-size="14">
-    <text x="10" y="0">
-      1010101010101010101010
-      <animate attributeName="y" from="-200" to="200" dur="4s" repeatCount="indefinite"/>
-    </text>
-    <text x="80" y="0">
-      1100110011001100110011
-      <animate attributeName="y" from="-200" to="200" dur="3s" repeatCount="indefinite"/>
-    </text>
-    <text x="150" y="0">
-      0101010101010101010101
-      <animate attributeName="y" from="-200" to="200" dur="5s" repeatCount="indefinite"/>
-    </text>
-    <text x="220" y="0">
-      1011001110001110101010
-      <animate attributeName="y" from="-200" to="200" dur="3.5s" repeatCount="indefinite"/>
-    </text>
-    <text x="300" y="0">
-      1110001110001110001110
-      <animate attributeName="y" from="-200" to="200" dur="4.5s" repeatCount="indefinite"/>
-    </text>
-    <text x="380" y="0">
-      0101011100010101010111
-      <animate attributeName="y" from="-200" to="200" dur="3.2s" repeatCount="indefinite"/>
-    </text>
-    <text x="460" y="0">
-      1101010101010110101010
-      <animate attributeName="y" from="-200" to="200" dur="4.2s" repeatCount="indefinite"/>
-    </text>
-    <text x="540" y="0">
-      1010100011101010100011
-      <animate attributeName="y" from="-200" to="200" dur="3.8s" repeatCount="indefinite"/>
-    </text>
-    <text x="620" y="0">
-      1110101010101110101010
-      <animate attributeName="y" from="-200" to="200" dur="4.8s" repeatCount="indefinite"/>
-    </text>
-    <text x="700" y="0">
-      0101010111100001010101
-      <animate attributeName="y" from="-200" to="200" dur="3.6s" repeatCount="indefinite"/>
-    </text>
-  </g>
-</svg>
-</p>
-
-<!-- TERMINAL SIMULATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&color=00FF9C&center=true&vCenter=true&width=700&lines=%24+nmap+-sV+target.com;Scanning+ports...;Vulnerability+detected...;Exploiting...;Access+Granted+✔" />
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500">
 </p>
 
 <h3 align="center">⚡ Offensive Security | Defensive Mindset | Continuous Learning ⚡</h3>
@@ -81,11 +30,11 @@
 <h2 align="left">👨‍💻 About Me:</h2>
 
 - 🛡️ Cybersecurity Engineer focused on **Offensive & Defensive Security**
-- 🔍 Specialized in **Penetration Testing & Vulnerability Assessment**
-- 🧠 Learning **Reverse Engineering & Malware Analysis**
+- 🔍 Passionate about **Penetration Testing & Vulnerability Assessment**
+- 🧠 Currently learning **Reverse Engineering & Malware Analysis**
 - ☁️ Exploring **Cloud Security (AWS / Azure / GCP)**
 - ⚔️ Active in **CTFs & Bug Bounty Platforms**
-- 📚 Focused on real-world attack techniques
+- 📚 Constantly researching exploits & real-world attack techniques
 
 ---
 
@@ -94,8 +43,17 @@
 - 🔐 Web Application Security Testing (**OWASP Top 10**)
 - 🧪 Network Scanning & Exploitation
 - 🛠️ Security Automation using Python
-- 📡 Traffic Analysis & Monitoring
-- 🔎 Bug Bounty & Vulnerability Research
+- 📡 Packet Analysis & Traffic Monitoring
+- 🔎 Bug Bounty Hunting & Vulnerability Research
+
+---
+
+<h2 align="left">📊 GitHub Stats:</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
 
 ---
 
@@ -118,6 +76,6 @@
 
 ---
 
-<h2 align="left">⚡ Philosophy:</h2>
+<h2 align="left">⚡ Fun Fact:</h2>
 
-> “Know the system. Break the system. Secure the system.” 🔐
+> “The quieter you become, the more you are able to hear.” 🧠
